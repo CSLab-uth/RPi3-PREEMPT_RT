@@ -1,5 +1,5 @@
 # RPi3-PREEMPT_RT
-Latency measurements of RPi3 on default Raspbian Linux and Raspbian Linux with PREEMPT_RT patch
+Latency measurements of RPi3 on default Raspbian Linux kernels and Raspbian Linux kernels with PREEMPT_RT patch
 
 Software (master & slave) modules used to perform real-time performance test of Raspbian Linux (in a RPi), 
 in a master-slave schema. 
